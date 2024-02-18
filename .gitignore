@@ -8,5 +8,3 @@ coc-settings.json
 lazy-lock.json
 after
 **/.DS_Store
-flake.nix
-flake.lock
